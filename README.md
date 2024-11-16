@@ -4,7 +4,7 @@ My name is Cathleen A Kasenda. I am an Electrical and Computer Engineering Senio
   - 🌱 I recently built an application for "EDUCATION" to be accessible by anyone despite their financial backgrounds.
   - 👯 I am looking forward to contribute into an Entry Level Software Engineering role :)
 
-Conenct with me through: [LinkedIn](https://www.linkedin.com/in/cathleen-kasenda-410808247/) to see more of my experiences! 
+Connect with me through: [LinkedIn](https://www.linkedin.com/in/cathleen-kasenda-410808247/) to see more of my experiences! 
 Feel free to reach out to me via Email: cathleen.kasenda@gmail.com 
     
 
