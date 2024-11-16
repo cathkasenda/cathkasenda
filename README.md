@@ -1,4 +1,14 @@
 ## Hi there 👋
+My name is Cathleen A Kasenda. I am an Electrical and Computer Engineering Senior at University of Washington, Seattle! 
+  - 🔭 I am currently working on a personal project of making an AI RESUME REVIEWER, to help individuals for their job application.
+  - 🌱 I recently built an application for "EDUCATION" to be accessible by anyone despite their financial backgrounds.
+  - 👯 I am looking forward to contribute into an Entry Level Software Engineering role :)
+
+Conenct with me through: [LinkedIn](https://www.linkedin.com/in/cathleen-kasenda-410808247/) to see more of my experiences! 
+Feel free to reach out to me via Email: cathleen.kasenda@gmail.com 
+    
+
+
 
 <!--
 **cathkasenda/cathkasenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
